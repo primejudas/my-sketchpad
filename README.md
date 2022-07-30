@@ -21,4 +21,4 @@ this is a simply modified pixel sketch-pad for drawing diffrent objects and shap
 ### Demo
 
 Visit the link to view the site
-[here](https://primejudas.github.io/odin-foundation-html-css-project/)
+[here](https://primejudas.github.io/my-sketchpad/)
